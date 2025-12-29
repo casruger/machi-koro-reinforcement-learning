@@ -51,8 +51,8 @@ The agent is built using `stable-baselines3` and `gymnasium`. It treats the game
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
-    cd <repository-folder>
+    git clone https://github.com/casruger/machi-koro-reinforcement-learning
+    cd machi-koro-reinforcement-learning
     ```
 
 2.  **Set up a virtual environment:**
